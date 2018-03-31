@@ -6,12 +6,12 @@ Building intelligent recomendation engines utilizing named entity recognition
 
 This project attempts to pick up on recomending movies based on their scripts and build automated questions to work out calculated possibilites that the user will choose one movie over the other by the storyline the script follows, this can include named places, locations and other various factors the user may not normally take into consideration when choosing a new movie. 
 
-### Prerequisites
+### Caveats
 
-What things you need to install the software and how to install them
+We expect the user to follow the below principles 
 
 ```
-Give examples
+Watching a movie from start to finish
 ```
 
 ### Installing
@@ -58,9 +58,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Stanford Core NLP](https://stanfordnlp.github.io/CoreNLP/) - The main Named Entity Recognition Used
 
 ## Contributing
 
@@ -72,9 +70,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Christopher Hurley** - *Initial work* -
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+[comment]: <> (See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.)
 
 ## License
 
