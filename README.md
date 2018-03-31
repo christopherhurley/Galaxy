@@ -1,6 +1,6 @@
-# Project Title
+# Galaxy
 
-One Paragraph of project description goes here
+Building intelligent recomendation engines utilizing named entity recognition 
 
 ## Getting Started
 
