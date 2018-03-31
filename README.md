@@ -2,9 +2,9 @@
 
 Building intelligent recomendation engines utilizing named entity recognition 
 
-## Getting Started
+## About
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This project attempts to pick up on recomending movies based on their scripts and build automated questions to work out calculated possibilites that the user will choose one movie over the other by the storyline the script follows, this can include named places, locations and other various factors the user may not normally take into consideration when choosing a new movie. 
 
 ### Prerequisites
 
